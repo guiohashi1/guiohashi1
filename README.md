@@ -3,7 +3,7 @@ Eai, me chamo Guilherme!
 <img 
   src="./assets/dev-notebook.png" 
   alt="Ilustração de notebook com código, café e headset" 
-  width="400px" 
+  width="600px" 
   align="right"
 />
 
