@@ -17,7 +17,7 @@ Eai, me chamo Guilherme!
 </p>
 
 <p align="left">
-  <strong>🚀 Ferramentas e Tecnologias:</strong>
+  <strong>🚀 Competências:</strong>
 </p>
 
 <p align="left">
@@ -32,7 +32,7 @@ Eai, me chamo Guilherme!
 </p>
 
 <p align="left">
-  <strong>💌 Para entrar em contato comigo:</strong>
+  <strong>💌 Meus contatos:</strong>
 </p>
 
 <p align="left">
