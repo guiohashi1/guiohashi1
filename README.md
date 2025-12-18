@@ -17,7 +17,7 @@ Eai, me chamo Guilherme!
 </p>
 
 <p align="left">
-  <strong>🚀 Competências:</strong>
+  <strong>🖳 Competências:</strong>
 </p>
 
 <p align="left">
@@ -32,7 +32,7 @@ Eai, me chamo Guilherme!
 </p>
 
 <p align="left">
-  <strong>💌 Meus contatos:</strong>
+  <strong>📧 Meus contatos:</strong>
 </p>
 
 <p align="left">
