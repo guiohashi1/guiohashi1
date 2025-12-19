@@ -12,7 +12,7 @@ Eai, me chamo Guilherme!
 </p> 
 
 <p align="left"> 
-  Desenvolvedor <strong>Web/Mobile</strong> apaixonado por criar soluções práticas que realmente ajudam pessoas no dia a dia. <br>
+  Software Developer | Full Stack apaixonado por criar soluções práticas que realmente ajudam pessoas no dia a dia. <br>
   Busco evoluir constantemente em <strong>React, TypeScript e UI/UX</strong>. <br>
 </p>
 
