@@ -38,7 +38,6 @@ Eai, me chamo Guilherme!
 <p align="left">
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
