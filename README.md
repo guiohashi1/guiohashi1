@@ -36,9 +36,9 @@ Eai, me chamo Guilherme!
 </p>
 
 <p align="left">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:guigibim2000@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
-  <a href="https://www.linkedin.com">
+  <a href="www.linkedin.com/in/guilherme-ohashi">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
